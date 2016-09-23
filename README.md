@@ -34,11 +34,11 @@ This module returns an object with 2 keys.
 **structure**
 
 ```
-/src/
+/src
   /index.html
   /pages
     /about.html
-webpack.config.js
+/webpack.config.js
 ```
 
 ```javascript
