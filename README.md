@@ -1,4 +1,6 @@
-# webpack-config-htmls (1.0.0)
+# webpack-config-htmls
+
+[![npm version](https://badge.fury.io/js/webpack-config-htmls.svg)](https://badge.fury.io/js/webpack-config-htmls)
 
 Maintainer: Geoffrey Dhuyvetters [@duivvv](https://twitter.com/duivvv)
 
@@ -29,10 +31,14 @@ This module returns an object with 2 keys.
 
 ### example
 
+**structure**
+
+```
 /src/
   /index.html
   /pages
     /about.html
+```
 
 ```javascript
 
