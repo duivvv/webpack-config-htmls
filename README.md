@@ -38,6 +38,7 @@ This module returns an object with 2 keys.
   /index.html
   /pages
     /about.html
+webpack.config.js
 ```
 
 ```javascript
