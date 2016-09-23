@@ -26,8 +26,8 @@ config.plugins = config.plugins.concat(htmls.plugins);
 
 This module returns an object with 2 keys.
 
-* entry: Array of html paths to add to config.entry
-* plugins: Array of [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) instances
+* `entry`: Array of html paths to add to config.entry
+* `plugins`: Array of [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) instances
 
 ### example
 
